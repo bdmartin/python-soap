@@ -35,7 +35,7 @@ flake8==2.3.0
     # via
     #   -r requirements-dev.txt
     #   pip-conflict-checker
-idna==3.6
+idna==3.7
     # via requests
 iniconfig==2.0.0
     # via pytest
@@ -83,7 +83,7 @@ pytest-runner==6.0.1
     # via -r requirements-dev.txt
 pytz==2023.3.post1
     # via zeep
-requests==2.31.0
+requests==2.32.0
     # via
     #   requests-file
     #   requests-toolbelt
